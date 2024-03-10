@@ -9,6 +9,8 @@ opencv-python
 catboost
 xgboost
 
+dill
+
 
 
 # -e .
